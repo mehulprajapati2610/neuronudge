@@ -305,29 +305,29 @@ python3 -m http.server 3000
 ## Features
 
 ### User Side
-- ✅ Dashboard with burnout risk, mood, sleep, stress indicators
-- ✅ Interactive daily check-in with sliders
-- ✅ Mood/stress/sleep/burnout charts (Chart.js)
-- ✅ AI chat companion powered by Groq (LLaMA 3.3 70B)
-- ✅ Daily wellness nudges with streak tracking
-- ✅ Peer support rooms
-- ✅ Mental health assessments (PHQ-9, GAD-7)
-- ✅ Browse doctors and book appointments
-- ✅ Real-time appointment status tracking
-- ✅ Post-session clinical reports from doctor
-- ✅ Passive browser behavior tracking (typing speed, mouse activity, idle time)
-- ✅ Email reminders for appointments and nudges
-- ✅ In-app notifications
-- ✅ Google OAuth login
+-  Dashboard with burnout risk, mood, sleep, stress indicators
+-  Interactive daily check-in with sliders
+-  Mood/stress/sleep/burnout charts (Chart.js)
+-  AI chat companion powered by Groq (LLaMA 3.3 70B)
+-  Daily wellness nudges with streak tracking
+-  Peer support rooms
+-  Mental health assessments (PHQ-9, GAD-7)
+-  Browse doctors and book appointments
+-  Real-time appointment status tracking
+-  Post-session clinical reports from doctor
+-  Passive browser behavior tracking (typing speed, mouse activity, idle time)
+-  Email reminders for appointments and nudges
+-  In-app notifications
+-  Google OAuth login
 
 ### Doctor Side
-- ✅ Overview dashboard (today's appointments, pending requests, high-burnout patients)
-- ✅ Accept / reject appointment requests with reasons
-- ✅ Complete appointment management panel with filters
-- ✅ Patient list with risk levels and burnout scores
-- ✅ Per-patient wellness charts (mood + stress history)
-- ✅ Submit detailed post-session reports (PHQ-9, GAD-7, ICD-10, clinical notes)
-- ✅ Send personalized recommendations to patients
+-  Overview dashboard (today's appointments, pending requests, high-burnout patients)
+-  Accept / reject appointment requests with reasons
+-  Complete appointment management panel with filters
+-  Patient list with risk levels and burnout scores
+-  Per-patient wellness charts (mood + stress history)
+-  Submit detailed post-session reports (PHQ-9, GAD-7, ICD-10, clinical notes)
+-  Send personalized recommendations to patients
 
 ---
 
