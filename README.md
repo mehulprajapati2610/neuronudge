@@ -18,6 +18,12 @@ A backend-heavy SaaS application for monitoring burnout, tracking emotional well
 
 ---
 
+## System Architecture
+
+![Architecture](docs/Architecture.png)
+
+---
+
 ## Project Structure
 
 ```
