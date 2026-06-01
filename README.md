@@ -353,6 +353,7 @@ python3 -m http.server 3000
 
 ![Insights](screenshots/User_insights.png)
 
+---
 
 ## Burnout Score Algorithm
 
@@ -364,6 +365,18 @@ Burnout% = (stress/10 × 35) + ((10-mood)/10 × 25) + (min(workHours/12,1) × 25
 - Low mood contributes 25%
 - Overwork contributes 25%
 - Sleep deficit contributes 15%
+
+---
+
+## Deployment Status
+
+NeuroNudge is fully functional and deployment-ready.
+
+The application currently runs successfully in local and development environments.
+
+Production deployment is currently paused due to email service limitations associated with free-tier infrastructure used for appointment notifications and authentication workflows.
+
+The backend architecture, authentication system, APIs, and database integrations are production-ready and can be deployed with minimal infrastructure changes.
 
 ---
 
