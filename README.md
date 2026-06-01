@@ -347,7 +347,7 @@ python3 -m http.server 3000
 
 ### Doctor Appointment
 
-![Appointment](screenshots/doctor_Appointment.png)
+![Appointment](screenshots/Doctor_Appointment.png)
 
 ### User Insights
 
