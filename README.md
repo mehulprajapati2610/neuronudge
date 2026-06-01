@@ -331,6 +331,29 @@ python3 -m http.server 3000
 
 ---
 
+## Screenshots
+
+### User Dashboard
+
+![Dashboard](screenshots/User_dashboard.png)
+
+### User Nudges
+
+![Nudges](screenshots/User_Nudges.png)
+
+### AI Chat
+
+![Chat](screenshots/AI_Chat.png)
+
+### Doctor Appointment
+
+![Appointment](screenshots/doctor_Appointment.png)
+
+### User Insights
+
+![Insights](screenshots/User_insights.png)
+
+
 ## Burnout Score Algorithm
 
 ```
